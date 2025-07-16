@@ -6,4 +6,5 @@ link to the [word search solver](https://colab.research.google.com/drive/1PqHxK0
 For best results, crop out and isolate the images of: <br>
 - the wordsearch grid
 - the list of target words <br>
+
 Because the webapp will require you to send both of them separately
